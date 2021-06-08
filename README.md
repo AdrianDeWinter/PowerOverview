@@ -2,6 +2,7 @@
 
 A simple script to collect and display power production for the current and all connected grids by category, as well as battery statistics
 Requires https://github.com/AdrianDeWinter/SE-Utilities
+
 Version History:
 0.0.3:
  - added more detailed tracking of supergrids power statistics 
