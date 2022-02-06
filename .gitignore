@@ -1,0 +1,5 @@
+*.zip
+/.vs
+*.bak
+/bin
+/obj
